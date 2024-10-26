@@ -1,0 +1,1 @@
+locust -f locustfile.py --host=https://koreanjson.com --run-time 1m
